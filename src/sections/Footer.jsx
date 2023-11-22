@@ -10,7 +10,7 @@ const Footer = () => {
                <a href="/">
                   <img src={footerLogo} alt="logo" width={150} height={46} />
                </a>
-               <p className="mt-6 text-base laeding-7 font-montserrat text-white-400 sm:max-w-sm ">
+               <p className="mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm ">
                   Get shoes ready for the new term at your nearest Nike store. Find your perfect Size In Store. Get Rewards
                </p>
                <div className="flex items-center gap-5 mt-8 ">
